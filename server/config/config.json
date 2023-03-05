@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "oigsktcy",
+    "password": "zR2Z9a54brhEvUb9JMdDYz1peYkvw-FY",
+    "database": "oigsktcy",
+    "host": "isilo.db.elephantsql.com",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "oigsktcy",
+    "password": "zR2Z9a54brhEvUb9JMdDYz1peYkvw-FY",
+    "database": "oigsktcy",
+    "host": "isilo.db.elephantsql.com",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "oigsktcy",
+    "password": "zR2Z9a54brhEvUb9JMdDYz1peYkvw-FY",
+    "database": "oigsktcy",
+    "host": "isilo.db.elephantsql.com",
+    "dialect": "postgres"
+  }
+}
